@@ -16,7 +16,7 @@ Then test the unregulated mode. To do this, send a command with parameter 0 from
 Hardware part of the Trafic Light System project
 
 ![image](https://github.com/user-attachments/assets/d25bd977-e0a0-4dda-a615-6c58201c38ec)
-Use case Trafic Light System 
+  Use case Trafic Light System 
 
 ![image](https://github.com/user-attachments/assets/3775d57e-618f-426b-8ae9-d32f15b93527)
 Class diagram Trafic Light System 
