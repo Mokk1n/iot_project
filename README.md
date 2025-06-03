@@ -13,3 +13,11 @@ The system testing procedure consists of checking the functionality of the syste
 Then test the unregulated mode. To do this, send a command with parameter 0 from MQTTX. In response, the system will start flashing the yellow signal (if it is working properly) or activate the buzzer sound signal (if a malfunction of the yellow LED is detected). If necessary, return to the basic mode by sending a command with parameter 1 to MQTTX.
 ![image](https://github.com/user-attachments/assets/40bbc5f2-708e-4fdc-8795-90245c896fcb)
 Hardware part of the Trafic Light System project
+![image](https://github.com/user-attachments/assets/d25bd977-e0a0-4dda-a615-6c58201c38ec)
+Diagram Use case Trafic Light System 
+![image](https://github.com/user-attachments/assets/3775d57e-618f-426b-8ae9-d32f15b93527)
+Class diagram Trafic Light System 
+![image](https://github.com/user-attachments/assets/fa1adc0d-db46-440a-9184-5b5bfcb6280d)
+Active Diagram проекту Trafic Light System
+
+
