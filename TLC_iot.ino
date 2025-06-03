@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 //WiFi and MQTT settings
-const char* ssid = "TP-Link_DDB4";
-const char* password = "58819234";
+const char* ssid = "";
+const char* password = "";
 const char* mqttServer = "broker.emqx.io";
 const int mqttPort = 1883;
 const char* mqttTopic = "traffic_light/control";
