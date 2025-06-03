@@ -11,5 +11,5 @@ b)    1 - switches to RegulatedState.
 Before testing, you need to download the sketch by connecting the ESP8266 to a PC via USB, selecting the port and board in the Arduino IDE, uploading the sketch to the ESP8266, and then opening the Serial Monitor to view system messages.
 The system testing procedure consists of checking the functionality of the system in basic mode. Pressing the pedestrian crossing button initiates a change in traffic light signals. At the same time, the system simulates a yellow LED failure with a probability of 50%. If a malfunction of the yellow signal is detected, the system skips its phase and switches from green to red. If the yellow LED is working properly.
 Then test the unregulated mode. To do this, send a command with parameter 0 from MQTTX. In response, the system will start flashing the yellow signal (if it is working properly) or activate the buzzer sound signal (if a malfunction of the yellow LED is detected). If necessary, return to the basic mode by sending a command with parameter 1 to MQTTX.
-
-Translated with DeepL.com (free version)
+![image](https://github.com/user-attachments/assets/40bbc5f2-708e-4fdc-8795-90245c896fcb)
+Hardware part of the Trafic Light System project
